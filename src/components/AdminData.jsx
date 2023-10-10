@@ -1,10 +1,10 @@
 import React from 'react';
 
 const data = [
-  { name: 'John', role: 'Developer' },
-  { name: 'Alice', role: 'Designer' },
-  { name: 'Bob', role: 'Manager' },
-  { name: 'Eve', role: 'Tester' },
+  { name: 'John', role: 'Super Admin' },
+  { name: 'Alice', role: 'Admin' },
+  { name: 'Bob', role: 'Admin' },
+  { name: 'Eve', role: 'Management Staff' },
 ];
 
 const AdminData = () => {

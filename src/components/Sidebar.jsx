@@ -21,7 +21,7 @@ const Sidebar = () => {
         <div>
             <ul className={style} id="accordionSidebar">
                 {/* Sidebar - Brand */}
-                <a className="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+                <a className="sidebar-brand d-flex align-items-center justify-content-center" >
                     <div className="sidebar-brand-icon rotate-n-15">
                         {/* <i class="fa fa-connectdevelop" aria-hidden="true"></i> */}
 

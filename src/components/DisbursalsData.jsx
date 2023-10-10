@@ -1,10 +1,10 @@
 import React from 'react';
 
 const data = [
-  { date: '2023-01-10', amount: 100.0, status: 'Paid' },
-  { date: '2023-02-15', amount: 75.5, status: 'Pending' },
-  { date: '2023-03-20', amount: 50.25, status: 'Paid' },
-  { date: '2023-04-05', amount: 30.0, status: 'Pending' },
+  { date: '2023-01-10', amount: "₹5,03,123", status: 'Paid' },
+  { date: '2023-02-15', amount: "7,03,023", status: 'Pending' },
+  { date: '2023-03-20', amount: "₹5,08,123", status: 'Success' },
+  { date: '2023-04-05', amount: "₹9,03,000", status: 'Pending' },
 ];
 
 const DisbursalsData = () => {
