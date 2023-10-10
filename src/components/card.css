@@ -1,0 +1,9 @@
+.my{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: red;
+    height: 200px;
+    width: 500px;
+    border: 2px solid black;
+}
