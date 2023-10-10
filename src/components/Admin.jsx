@@ -24,9 +24,7 @@ const Admin = () => {
                         <div className="card-header py-3">
                             <h6 className="m-0 font-weight-bold text-primary">Disbursals</h6>
                         </div>
-                        <div className="card-body">
-                           <DisbursalsData/>
-                        </div>
+                        <DisbursalsData/>
                     </div>
 
 
