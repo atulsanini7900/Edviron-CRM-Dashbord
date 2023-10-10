@@ -16,13 +16,7 @@ const Sidebar = () => {
         }
     }
 
-    const changeStyle1 = () => {
-        if (style == "navbar-nav bg-gradient-primary sidebar sidebar-dark accordion") {
-            setStyle("navbar-nav bg-gradient-primary sidebar sidebar-dark accordion toggled1")
-        } else {
-            setStyle("navbar-nav bg-gradient-primary sidebar sidebar-dark accordion")
-        }
-    }
+   
     return (
         <div>
             <ul className={style} id="accordionSidebar">
@@ -137,15 +131,6 @@ const Sidebar = () => {
                 </div>
 
             </ul>
-
-
-
-
-
-
-            {/* topnav
- 
- */}
 
             
 

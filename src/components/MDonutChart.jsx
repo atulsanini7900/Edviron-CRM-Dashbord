@@ -16,7 +16,7 @@ const data = [
 const DonutChart = () => {
   return (
     <div>
-      <ResponsiveContainer width="100%" height={400}>
+      <ResponsiveContainer width="100%" height={280}>
         <PieChart>
           <Pie
             dataKey="value"
